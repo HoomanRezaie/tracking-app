@@ -1,13 +1,13 @@
 <template>
   <article class="hello">
     <h1>{{ msg }}</h1>
-    <h2>Welkom in my App</h2>
+    <h2>Welkom in my App over Track</h2>
   </article>
 </template>
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'Een',
   data () {
     return {
       msg: 'Hier is client side of my app'
